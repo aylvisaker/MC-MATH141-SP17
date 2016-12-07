@@ -6,9 +6,10 @@ tags: [syllabus]
 description: MC-MATH-141
 ---
 
-Homework in this class is not collected or graded. The following assignments are only suggestions. You should try doing the "easy" problems after reading each section, and try the "hard" problems after discussing each section in class. You'll notice that 
+Homework in this class is not collected or graded. The following assignments are only suggestions. You should try doing the "easy" problems after reading each section, and try the "hard" problems after discussing each section in class. You'll notice that the introductory section in each chapter doesn't contain any exercises. Unless otherwise specified, ranges include only all problems. So if you see "1-5" then you are meant to do problems 1, 3, and 5. If I want you to look at the even problems in a range, I will say "1-5all".
 
 |Section|Easy Problems|Hard Problems|
+|:---|:---|:---|
 |1.2|||
 |1.3|||
 |1.4|||
