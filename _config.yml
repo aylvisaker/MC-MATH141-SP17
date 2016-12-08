@@ -9,7 +9,7 @@ baseurl: /MC-MATH141-SP17
 
 # Optional settings
 
-discus_identifier: # Add your Disqus identifier
+discus_identifier: vanowen # Add your Disqus identifier
 ga_analytics: # Add your GA Tracking Id
 rss_enabled: true # Change to false if not
 social:
