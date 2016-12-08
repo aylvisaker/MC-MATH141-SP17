@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Syllabus"
+categories: [syllabus]
+tags: [syllabus]
+description: MC-MATH-141
+---
+
 # Course Details
 * Number / Title : Math 141 / Elementary Functions
 * Section / Semester : 01 / SP17
