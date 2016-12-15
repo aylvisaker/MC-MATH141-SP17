@@ -99,6 +99,35 @@ description: MC-MATH-141
 
 <div id='s7'/>
 # Section 1.7 - Linear Functions
+* Linear relationship / linear function
+* Slope of a line
+	* Positive slopes
+	* Negative slopes
+	* Zero slope
+* Point-slope form: $y-\color{red}{y_1}=\color{red}{m}(x-\color{red}{x_1})$.
+* Slope-intercept form: $y = \color{red}{m}x+\color{red}{b}$.
+* In the above, the red variables are what we call **parameters**. They represent fixed quantities, rather than changing ones (like the independent and dependent variables $x$ and $y$ do). For a given problem, we usually want to replace parameters with specific values. This is not true of the variables $x$ and $y$.
+* Slopes of parallel and perpendicular lines
+	* Parallel lines have the same slope
+	* Perpendicular lines have opposite (negative) inverse (reciprocal) slopes
+* General linear equation
 
 <div id='s8'/>
 # Section 1.8 - Quadratic Functions
+* Quadratic function
+* Parabola
+* Horizontal shifts. Let $c>0$.
+	* $y = f(x+c)$ is a shift to the left.
+	* $y = f(x-c)$ is a shift to the right.
+* Vertical shifts. Let $c>0$.
+	* $y = f(x) + c$ is a shift up.
+	* $y = f(x) - c$ is a shift down.
+* Graph of $y=\color{red}{a}x^2$
+	* If $a<0$ parabola opens downward
+	* If $a>0$ parabola opens upward
+	* The larger $\vert a\vert$, the steeper the parabola
+* Standard form: $y=\color{red}{a}(x-\color{red}{x_1})^2 + \color{red}{y_1}$
+* Quadratic formula: solutions to $ax^2+bx+c=0$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
+* End behavior
+	* as $x\to\infty$, $f(x)\to$
+	* as $x\to-\infty$, $f(x)\to$
