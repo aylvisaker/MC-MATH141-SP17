@@ -5,14 +5,14 @@ categories: [syllabus]
 tags: [syllabus]
 description: MC-MATH-141
 ---
-* [Section 1.1 - Introduction](#section-1.1-introduction)
-* [Section 1.2 - The Real Line](#section-1.2-the-real-line)
-* [Section 1.3 - The Coordinate Plane](#section-1.3-the-coordinate-plane)
-* [Section 1.4 - Equations and Graphs](#section-1.4-equations-and-graphs)
-* [Section 1.5 - Using Technology to Graph Equations](#section-1.5-using-technology-to-graph-equations)
-* [Section 1.6 - Functions](#section-1.6-functions)
-* [Section 1.7 - Linear Functions](#section-1.7-linear-functions)
-* [Section 1.8 - Quadratic Functions](#section-1.8-quadratic-functions)
+* [Section 1.1 - Introduction](#section-1.1---introduction)
+* [Section 1.2 - The Real Line](#section-1.2---the-real-line)
+* [Section 1.3 - The Coordinate Plane](#section-1.3---the-coordinate-plane)
+* [Section 1.4 - Equations and Graphs](#section-1.4---equations-and-graphs)
+* [Section 1.5 - Using Technology to Graph Equations](#section-1.5---using-technology-to-graph-equations)
+* [Section 1.6 - Functions](#section-1.6---functions)
+* [Section 1.7 - Linear Functions](#section-1.7-linear---functions)
+* [Section 1.8 - Quadratic Functions](#section-1.8-quadratic---functions)
 
 
 # Section 1.1 - Introduction
