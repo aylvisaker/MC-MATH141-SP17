@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Chapter 1 Outline"
-categories: [syllabus]
-tags: [syllabus]
+categories: [content]
+tags: [content]
 description: MC-MATH-141
 ---
 * [Section 1.1 - Introduction](#s1)
@@ -31,7 +31,7 @@ description: MC-MATH-141
 	* If $a>b$ and $c>0$, then $ac>bc$
 	* If $a>b$ and $c<0$, then $ac<bc$
 * Intervals
-	* Set builder notation: $\{x\mid a<x<b\}$
+	* Set builder notation: $\\{x\mid a<x<b\\}$
 	* Open intervals
 	* Closed intervals
 	* Unbounded intervals
@@ -39,8 +39,8 @@ description: MC-MATH-141
 * Sign charts
 * Union and intersection
 * Absolute value
-* Distance on the real line (1D)
-* Midpoints on the real line (1D)
+	* Distance on the real line (1D)
+	* Midpoints on the real line (1D)
 * Absolute value properties
 	* $\vert ab\vert = \vert a\vert \cdot \vert b\vert$
 	* $\left\vert \vert a\vert - \vert b\vert \right\vert \leq \vert a + b\vert \leq \vert a\vert + \vert b\vert$
@@ -66,7 +66,7 @@ description: MC-MATH-141
 	* Identity
 	* Conditional equation
 * Graph of an equation
-* $x$-intercept and $y$-intercept (collectively known as axis intercepts)
+* $x$-intercepts and $y$-intercept (collectively known as axis intercepts)
 * Symmetry
 	* $x$-axis
 	* $y$-axis
@@ -81,15 +81,16 @@ description: MC-MATH-141
 * Function / functional relationship
 	* Independent variable
 	* Dependent variable
+	* Box notation
 * Domain and range
-* Box notation
+	* Finding domain and range from a graph
+	* Range is not always *possible* to find precisely
 * Vertical line test
-* Finding domain and range from a graph
 * Piecewise defined functions
-* Difference quotient
-* Average rate of change
-* Instantaneous rate of change
-* Range is not always *possible* to find precisely
+* Rate of change
+	* Difference quotient
+	* Average rate of change
+	* Instantaneous rate of change
 * Odd and even and neither functions
 	* Even functions have graphs with $y$-axis symmetry. Analytic test: $f(-x)=f(x)$.
 	* Odd functions have graphs with origin symmetry. Analytic test: $f(-x)=-f(x)$.

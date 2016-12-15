@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Chapter 1 Examples"
-categories: [syllabus]
-tags: [syllabus]
+categories: [content]
+tags: [content]
 description: MC-MATH-141
 ---
 
