@@ -38,16 +38,16 @@ description: MC-MATH-141
 * Example 6: Solve $(x-1)(x-3)(5-x)\leq 0$.
 * Example 7: Solve $\frac{x^2-4}{x(4-x)}\geq 0$.
 * Absolute value
-* Example 8: Solve $\left\mid\frac{x-2}{2x+1}\right\mid = 3$.
+* Example 8: Solve $\left\vert\frac{x-2}{2x+1}\right\vert = 3$.
 * Distance on the real line (1D)
 * Midpoints on the real line (1D)
 * Absolute value properties
-	* $\mid ab\mid = \mid a\mid \cdot \mid b\mid$
-	* $\left\mid \mid a\mid - \mid b\mid \right\mid \leq \mid a + b\mid \leq \mid a\mid + \mid b\mid$
-	* $\mid x\mid < a$ if and only if $-a<x<a$
-	* $\mid x\mid > a$ if and only if $x<-a$ or $x>a$
-* Example 9: Solve $\mid 2x-1\mid < 3$.
-* Example 10: Solve $\mid -3x+2\mid > 8$.
+	* $\vert ab\vert = \vert a\vert \cdot \vert b\vert$
+	* $\left\vert \vert a\vert - \vert b\vert \right\vert \leq \vert a + b\vert \leq \vert a\vert + \vert b\vert$
+	* $\vert x\vert < a$ if and only if $-a<x<a$
+	* $\vert x\vert > a$ if and only if $x<-a$ or $x>a$
+* Example 9: Solve $\vert 2x-1\vert < 3$.
+* Example 10: Solve $\vert -3x+2\vert > 8$.
 * Example 11: When a charity conducts a fundraising campaign, it is common to describe the progress with respect to the midpoint value (half the goal). Let $R$ be the amount a charity wants to raise, and $A$ be the amount already raised. Find an expression (in terms of $A$ and $R$) for the amount over / under the midpoint value.
 
 # Section 1.3 - The Coordinate Plane
@@ -59,7 +59,7 @@ description: MC-MATH-141
 	* Quadrants
 * Example 1: Sketch the points associated with ordered pairs: $(1,2)$, $(-1,3)$, $(-2,-\pi)$, and $(\sqrt{2},-\sqrt{3})$.
 * Example 2: Sketch the points that satisfy both $x>2$ and $y\leq 1$.
-* Example 3: Sketch the points that satisfy both $1\leq \mid x\mid\leq 2$ and $-1<y<3$
+* Example 3: Sketch the points that satisfy both $1\leq \vert x\vert\leq 2$ and $-1<y<3$
 * Distance formula in the plane (2D)
 * Midpoint formula in the plane (2D)
 * Standard form of a circle
@@ -92,7 +92,7 @@ description: MC-MATH-141
 	* $x$-axis
 	* $y$-axis
 	* origin
-* Example 6: Use symmetry to graph $y=\mid x\mid$.
+* Example 6: Use symmetry to graph $y=\vert x\vert$.
 * Example 7: Determine any symmetry of $y=x^3$.
 * Example 8: A homeowner wants to create a garden surrounded by a brick border. The plot in which the garden (and its border) are to be contained is $384$ square feet in area and is twice as long as it is wide. The brick border is $4$ feet wide on all sides.
 	* Find the dimensions of the garden.
