@@ -1,41 +1,41 @@
 ---
 layout: post
-title: "Practice Problems"
+title: "Homework Problems"
 categories: [syllabus]
 tags: [syllabus]
 description: MC-MATH-141
 ---
 
-You should try doing the "easy" problems after reading each section and bring questions to class. Try the "hard" problems after discussing each section in class. Exams questions will be selected from both of these. The problems in each section are broken up into groups. At a minimum you should make sure that you can successfully complete at least one problem from each group. Each "extra credit" problem can be submitted for one point on your next exam. Extra credit problems will not be accepted on or after the date of the exam for that section.
+You should try doing the some problems from each group after reading the material and bring questions to class. Exams questions will be selected from the "practice problems", "easy problems", and "hard problems". Each "extra credit" problem can be submitted for 1-2 points on your next exam. Extra credit problems will not be accepted after the exam for that section.
 
 Unless otherwise specified, ranges are meant to include only the odd numbered problems.
 
-|Section|Easy Problems|Hard Problems|Extra Credit|
-|:---|:---|:---|:---|
-|1.2|1-39|41-77|74|
-|1.3|1-47, 49-61|63-69|68|
-|1.4||||
-|1.5||||
-|1.6||||
-|1.7||||
-|1.8||||
-|2.2||||
-|2.3||||
-|2.4||||
-|2.5||||
-|3.2||||
-|3.3||||
-|3.4||||
-|3.5||||
-|3.6||||
-|4.2||||
-|4.3||||
-|4.4||||
-|4.5||||
-|4.6||||
-|4.7||||
-|4.8||||
-|4.9||||
-|5.2||||
-|5.3||||
-|5.4||||
+|Section|Practice Problems|Easy Problems|Hard Problems|Extra Credit|
+|:------|:----------------|:------------|:------------|:-----------|
+|1.2|1-19|27-45,61,65,67|47-59,63,69-77|74|
+|1.3|1-29|31-61|63-69|68|
+|1.4|1-7|9-37|39-42 all,43-47,49-52 all||
+|1.5|1-9|11-17|19-21 all,25,26||
+|1.6|1-5,7-10 all,11-19,51-54 all|21-45,56-58 all|59-63,68,71,73|50|
+|1.7|||||
+|1.8|||||
+|2.2|||||
+|2.3|||||
+|2.4|||||
+|2.5|||||
+|3.2|||||
+|3.3|||||
+|3.4|||||
+|3.5|||||
+|3.6|||||
+|4.2|||||
+|4.3|||||
+|4.4|||||
+|4.5|||||
+|4.6|||||
+|4.7|||||
+|4.8|||||
+|4.9|||||
+|5.2|||||
+|5.3|||||
+|5.4|||||
