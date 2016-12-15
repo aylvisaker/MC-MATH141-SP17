@@ -6,15 +6,15 @@ tags: [syllabus]
 description: MC-MATH-141
 ---
 
-* [Section 1.2 - The Real Line](#section-1.2---the-real-line)
-* [Section 1.3 - The Coordinate Plane](#section-1.3---the-coordinate-plane)
-* [Section 1.4 - Equations and Graphs](#section-1.4---equations-and-graphs)
-* [Section 1.5 - Using Technology to Graph Equations](#section-1.5---using-technology-to-graph-equations)
-* [Section 1.6 - Functions](#section-1.6---functions)
-* [Section 1.7 - Linear Functions](#section-1.7---linear-functions)
-* [Section 1.8 - Quadratic Functions](#section-1.8---quadratic-functions)
+* [Section 1.2 - The Real Line](#s2)
+* [Section 1.3 - The Coordinate Plane](#s3)
+* [Section 1.4 - Equations and Graphs](#s4)
+* [Section 1.5 - Using Technology to Graph Equations](#s5)
+* [Section 1.6 - Functions](#s6)
+* [Section 1.7 - Linear Functions](#s7)
+* [Section 1.8 - Quadratic Functions](#s8)
 
-
+<div id='s2'/>
 # Section 1.2 - The Real Line
 * Example 1: Solve $2x-1<4x+3$.
 * Example 2: Solve $-1<2x+3<5$.
@@ -30,6 +30,7 @@ description: MC-MATH-141
 * Example 10: Solve $\vert -3x+2\vert > 8$.
 * Example 11: When a charity conducts a fundraising campaign, it is common to describe the progress with respect to the midpoint value (half the goal). Let $R$ be the amount a charity wants to raise, and $A$ be the amount already raised. Find an expression (in terms of $A$ and $R$) for the amount over / under the midpoint value.
 
+<div id='s3'/>
 # Section 1.3 - The Coordinate Plane
 * Example 1: Sketch the points associated with ordered pairs: $(1,2)$, $(-1,3)$, $(-2,-\pi)$, and $(\sqrt{2},-\sqrt{3})$.
 * Example 2: Sketch the points that satisfy both $x>2$ and $y\leq 1$.
@@ -40,6 +41,7 @@ description: MC-MATH-141
 * Example 7: Sketch the circle with equation $x^2 + y^2 + 4x - 6y = 3$.
 * Example 8: A gas pipeline is to be constructed from point $A$ to point $B$ on the other side of a river. Point $C$ is constructed directly across the river from point $B$. Point $A$ is located on the same side as point $C$, but $300$ feet upstream. If the river is $750$ feet wide, how much pipe is required?
 
+<div id='s4'/>
 # Section 1.4 - Equations and Graphs
 * Example 1: Solve the conditional equation.
 	* $x^2-5x-6=0$
@@ -59,6 +61,7 @@ description: MC-MATH-141
 	* Find the dimensions of the garden.
 	* Estimate the number of 10 inch by 4 inch bricks required for the border.
 
+<div id='s5'/>
 # Section 1.5 - Using Technology to Graph Equations
 * Example 1: Sketch the graph of $y=x^2+5$ in the following viewing rectangles. Which is the most appropriate?
 	* $[-3,3]\times[-3,3]$
@@ -76,6 +79,7 @@ description: MC-MATH-141
 	* $-x^2 + 3x + 1 < 0$
 * Example 8: Approximate the point of intersection in the first quadrant of the graphs of equations $y = x^2 + x - 2$ and $y = 2x - 1$.
 
+<div id='s6'/>
 # Section 1.6 - Functions
 * Example 1: Use the graph of $y=\sqrt{x}+1$ to find the domain of the function $f(x)=\sqrt{x}+1$.
 * Example 2: Evaluate $f(x) = x^2 - 2x + 1$ at the given values.
@@ -104,6 +108,8 @@ description: MC-MATH-141
 * Example 9: A box without a top is to be constructed from a square piece of cardboard with sides of length $3$ feet. Construction will proceed by cutting small squares out of each corner of the cardboard and then bending up the flaps. Approximate the size of the square that should be removed from each corner in order to obtain the maximum volume.
 
 
+<div id='s7'/>
 # Section 1.7 - Linear Functions
 
+<div id='s8'/>
 # Section 1.8 - Quadratic Functions

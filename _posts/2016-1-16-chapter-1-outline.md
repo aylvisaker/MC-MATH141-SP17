@@ -5,16 +5,16 @@ categories: [syllabus]
 tags: [syllabus]
 description: MC-MATH-141
 ---
-* [Section 1.1 - Introduction](#section-1.1---introduction)
-* [Section 1.2 - The Real Line](#section-1.2---the-real-line)
-* [Section 1.3 - The Coordinate Plane](#section-1.3---the-coordinate-plane)
-* [Section 1.4 - Equations and Graphs](#section-1.4---equations-and-graphs)
-* [Section 1.5 - Using Technology to Graph Equations](#section-1.5---using-technology-to-graph-equations)
-* [Section 1.6 - Functions](#section-1.6---functions)
-* [Section 1.7 - Linear Functions](#section-1.7-linear---functions)
-* [Section 1.8 - Quadratic Functions](#section-1.8-quadratic---functions)
+* [Section 1.1 - Introduction](#s1)
+* [Section 1.2 - The Real Line](#s2)
+* [Section 1.3 - The Coordinate Plane](#s3)
+* [Section 1.4 - Equations and Graphs](#s4)
+* [Section 1.5 - Using Technology to Graph Equations](#s5)
+* [Section 1.6 - Functions](#s6)
+* [Section 1.7 - Linear Functions](#s7)
+* [Section 1.8 - Quadratic Functions](#s8)
 
-
+<div id='s1'/>
 # Section 1.1 - Introduction
 * Natural numbers
 * Integers
@@ -22,6 +22,7 @@ description: MC-MATH-141
 * Irrational numbers
 * Real numbers
 
+<div id='s2'/>
 # Section 1.2 - The Real Line
 * Coordinate line
 * Inequality rules
@@ -46,6 +47,7 @@ description: MC-MATH-141
 	* $\vert x\vert < a$ if and only if $-a<x<a$
 	* $\vert x\vert > a$ if and only if $x<-a$ or $x>a$
 
+<div id='s3'/>
 # Section 1.3 - The Coordinate Plane
 * Coordinate plane (i.e. Cartesian plane or $xy$-plane)
 	* Origin
@@ -58,6 +60,7 @@ description: MC-MATH-141
 * Standard form of a circle
 * Completing the square
 
+<div id='s4'/>
 # Section 1.4 - Equations and Graphs
 * Equation
 	* Identity
@@ -69,9 +72,11 @@ description: MC-MATH-141
 	* $y$-axis
 	* origin
 
+<div id='s5'/>
 # Section 1.5 - Using Technology to Graph Equations
 * Viewing rectangle
 
+<div id='s6'/>
 # Section 1.6 - Functions
 * Function / functional relationship
 	* Independent variable
@@ -91,6 +96,8 @@ description: MC-MATH-141
 	* Functions do not need to be even or odd. For example $f(x)=x+1$ is neither.
 * Local maximums and local minimums
 
+<div id='s7'/>
 # Section 1.7 - Linear Functions
 
+<div id='s8'/>
 # Section 1.8 - Quadratic Functions
