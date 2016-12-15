@@ -11,6 +11,7 @@ description: MC-MATH-141
 * [Chapter 3](#chapter-3)
 * [Chapter 4](#chapter-4)
 * [Chapter 5](#chapter-5)
+
 ## Chapter 1
 * Section 1.2 homework:
     * practice problems: 1-19
@@ -47,6 +48,8 @@ description: MC-MATH-141
     * easy problems: 
     * hard problems: 
     * extra credit problems: 
+
+
 ## Chapter 2
 * Section 2.2 homework:
     * practice problems: 
@@ -68,6 +71,8 @@ description: MC-MATH-141
     * easy problems: 
     * hard problems: 
     * extra credit problems: 
+
+
 ## Chapter 3
 * Section 3.2 homework:
     * practice problems: 
@@ -94,6 +99,8 @@ description: MC-MATH-141
     * easy problems: 
     * hard problems: 
     * extra credit problems: 
+
+
 ## Chapter 4
 * Section 4.2 homework:
     * practice problems: 
@@ -135,6 +142,8 @@ description: MC-MATH-141
     * easy problems: 
     * hard problems: 
     * extra credit problems: 
+
+
 ## Chapter 5
 * Section 5.2 homework:
     * practice problems: 

@@ -14,11 +14,11 @@ hw_markup.write('* [Chapter 4](#chapter-4)\n')
 hw_markup.write('* [Chapter 5](#chapter-5)\n')
 
 current_chapter = '1'
-hw_markup.write('## Chapter 1\n')
+hw_markup.write('\n' + '## Chapter 1' + '\n')
 for hw in assignments[1:]:
 	if not str(hw[0][0]) == current_chapter:
 		current_chapter = hw[0][0]
-		chapter = '## Chapter ' + str(current_chapter) + '\n'
+		chapter = '\n\n' + '## Chapter ' + str(current_chapter) + '\n'
 	else:
 		chapter = ''
 	section  = '* Section ' + str(hw[0]) + ' homework:\n'
