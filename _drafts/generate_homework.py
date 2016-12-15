@@ -3,7 +3,7 @@ import csv
 hw_markup = open('homework.md', 'w')
 assignments = list(csv.reader(open('homework.csv', 'rU')))
 
-hw_markup.write('---\nlayout: post\ntitle: "Course Schedule"\n')
+hw_markup.write('---\nlayout: post\ntitle: "Homework Problems"\n')
 hw_markup.write('categories: [syllabus]\ntags: [syllabus]\n')
 hw_markup.write('description: MC-MATH-141\n---\n\n')
 

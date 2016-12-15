@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Course Schedule"
+title: "Homework Problems"
 categories: [syllabus]
 tags: [syllabus]
 description: MC-MATH-141
