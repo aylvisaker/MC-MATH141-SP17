@@ -82,7 +82,10 @@ description: MC-MATH-141
 	* Independent variable
 	* Dependent variable
 	* Box notation
+	* Note: $f(x)$ **does not mean** $f$ times $x$
 * Domain and range
+	* Domain is the set of all inputs that make sense
+	* Range is the set of all outputs that can be attained from some input in the domain
 	* Finding domain and range from a graph
 	* Range is not always *possible* to find precisely
 * Vertical line test
