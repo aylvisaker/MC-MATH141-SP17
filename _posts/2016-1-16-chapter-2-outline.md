@@ -82,7 +82,7 @@ description: MC-MATH-141
 	* If $c>1$ then
 		* the graph of $y=g(x)=f(c\cdot x)$ is a **horizontal compression** of the graph of $y=f(x)$.
 		* the graph of $y=g(x)=f(-c\cdot x)$ is a **horizontal compression and reflection** of the graph of $y=f(x)$.
-	* The ranges of $f(x)$, $f(c\cdot x), and $f(-c\cdot x)$ are all the same and their graphs have the same $y$-intercept. Their general shape is the same as well, except for a change in the horizontal scale.
+	* The ranges of $f(x)$, $f(c\cdot x)$, and $f(-c\cdot x)$ are all the same and their graphs have the same $y$-intercept. Their general shape is the same as well, except for a change in the horizontal scale.
 	* Note: This is the opposite of vertical compression/elongation, in that when $c<1$ we get an elongation instead of a compression.
 	* {% include image.html path="2.4.01.png" path-detail="2.4.01.hd.png" alt="Examples of horizontal reflections, compressions, and elongations." %}
 
@@ -90,8 +90,8 @@ description: MC-MATH-141
 <div id='s5'/>
 # Section 2.5 - Inverse Functions
 * A function, $f$, is called **one-to-one** if everything in the range has exactly one element in the domain that maps to it. Formally, we say $f$ is one-to-one when $f(x_1)=f(x_2)$ implies that $x_1=x_2$. Another way to think about this: if $x_1\neq x_2$ then $f(x_1)\neq f(x_2)$.
-	* $f(x)=x+5$ is one-to-one because if $x_1\neq x_2$ then $x_1+5\neq x_2+5$.
-	* $f(x)=x^2$ is not one-to-one because $f(-2)=f(2)$, but $-2\neq 2$. (It's easy to find other examples as well. E.g. $f(-5)=f(5)$.
+	* $f(x)=x+5$ is one-to-one because if $f(x_1)=f(x_2)$ then $x_1+5=x_2+5$, and subtracting $5$ from both sides reveals that $x_1=x_2$.
+	* $f(x)=x^2$ is not one-to-one because $f(-2)=f(2)$, but $-2\neq 2$. (It's easy to find other examples as well. E.g. $f(-5)=f(5)$, but $-5\neq 5$).
 * **Horizontal line test.** A function is one-to-one precisely when every horizontal line crosses its graph at most once.
 * **Inverses, generally speaking.** In mathematics, the word inverse gets used a lot. You are already familiar with a few inverses from arithmetic. The additive inverse of a number $x$ is $-x$ because $x+-x=0$ (and $0$ is the *additive identity*). The multiplicative inverse of a non-zero number $x$ is $1/x$ because $x\cdot\frac1x=1$ (and $1$ is the *multiplicative identity*).
 * **Inverse functions.** In much the same way that the additive identity satisfies $x+0=x$, and the multiplicative identity satisfies $x\cdot 1=x$, the identity function is $i(x)=x$. If $f$ is a one-to-one function then its **inverse function** is denoted $f^{-1}$ and has the property that $f\circ f^{-1}=f^{-1}\circ f=i$.
@@ -106,4 +106,4 @@ description: MC-MATH-141
 	* Solve for $x$ in terms of $y$ (now you have $x=f^{-1}(y)$)
 	* Interchange the variables $x$ and $y$ (now you have $y=f^{-1}(x)$, as desired)
 * The graph of the inverse of the one-to-one function, $f$, is obtained by reflecting the graph of $y=f(x)$ about the line $y=x$. The effect of such a reflection is exactly that of interchanging the $x$ and $y$ coordinates of each point.
-* {% include image.html path="2.4.01.png" path-detail="2.4.01.hd.png" alt="Examples of the graph of an inverse function." %}
+* {% include image.html path="2.5.01.png" path-detail="2.5.01.hd.png" alt="Examples of the graph of an inverse function." %}
