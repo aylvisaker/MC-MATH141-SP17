@@ -13,10 +13,10 @@ description: MC-MATH-141
 <div id='s2'/>
 # Section 2.2 - Other Common Functions
 
-* The **absolute value** of a real number $x$ is defined by $\vert x\vert = \begin{cases}x&x\geq0\\-x&x<0\end{cases}$.
+* The **absolute value** of a real number $x$ is defined by $\vert x\vert = \begin{cases}x&x\geq0\\\\-x&x<0\end{cases}$.
 	* Domain: $(-\infty,\infty)$
 	* Range: $[0,\infty)$
-	* End behavior: $|x|\to\infty$ as $x\to\pm\infty$
+	* End behavior: $\vert x\vert\to\infty$ as $x\to\pm\infty$
 	* Increasing: $(0,\infty)$
 	* Decreasing: $(-\infty,0)$
 	* {% include image.html path="2.2.01.png" path-detail="2.2.01.hd.png" alt="Plot of the absolute value function." %}
@@ -24,7 +24,7 @@ description: MC-MATH-141
 * The **square root** of a real number $x$ is a positive number whose square is $x$.
 	* Domain: $[0,\infty)$
 	* Range: $[0,\infty)$
-	* End behavior: $\sqrt{x}\to\infty as $x\to\infty$
+	* End behavior: $\sqrt{x}\to\infty$ as $x\to\infty$
 	* Increasing: $(0,\infty)$
 	* Decreasing: never
 	* {% include image.html path="2.2.02.png" path-detail="2.2.02.hd.png" alt="Plot of the square root function." %}
@@ -36,7 +36,7 @@ description: MC-MATH-141
 	* Increasing: never
 	* Decreasing: never
 	* Caution: The floor function always rounds *down*. So $\lfloor 2.7\rfloor = 2$, but $\lfloor -2.1\rfloor = -3$.
-	* The floor function frequently arises when arbitrary real numbers just don't make sense. For instance, I might pay $.30$ dollars per minute for long distance, but if I make a $3.14$ minute phone call the company is not able to charge me $.942$ dollars. They use the floor function to round the amount down (or more likely, add one and round up).
+	* The floor function frequently arises when arbitrary real numbers just don't make sense. For instance, I might pay $.30$ dollars per minute for long distance, but if I make a $3.14$ minute phone call the company is not able to charge me $.942$ dollars. They use the floor function to round the amount down (or, more likely in the case of the phone company, the ceiling function to round up).
 	* {% include image.html path="2.2.03.png" path-detail="2.2.03.hd.png" alt="Plot of the floor function." %}
 
 <div id='s3'/>
