@@ -58,7 +58,7 @@ description: MC-MATH-141
 	* If $c>1$ then
 		* the graph of $y=g(x)=c\cdot f(x)$ is a **vertical elongation** of the graph of $y=f(x)$.
 		* the graph of $y=g(x)=-c\cdot f(x)$ is a **vertical elongation and reflection** of the graph of $y=f(x)$.
-	* The domains of $f$, $c\cdot f$, and $-c\cdot f$ are all the same and the functions have the same $x$-intercepts. Their general shape is the same as well, except for a change in the vertical scale.
+	* The domains of $f$, $c\cdot f$, and $-c\cdot f$ are all the same, and all three functions have the same $x$-intercepts. The general shape of their graphs is the same as well, except for a change in the vertical scale.
 	* {% include image.html path="2.3.01.png" path-detail="2.3.01.hd.png" alt="Examples of vertical reflections, compressions, and elongations." %}
 * **Graph of the reciprocal function.** Let $g(x)=\frac{1}{f(x)}$. Note that this is a special case of a quotient of functions.
 	* $g(x)$ is undefined when $f(x)=0$
@@ -82,7 +82,7 @@ description: MC-MATH-141
 	* If $c>1$ then
 		* the graph of $y=g(x)=f(c\cdot x)$ is a **horizontal compression** of the graph of $y=f(x)$.
 		* the graph of $y=g(x)=f(-c\cdot x)$ is a **horizontal compression and reflection** of the graph of $y=f(x)$.
-	* The ranges of $f(x)$, $f(c\cdot x)$, and $f(-c\cdot x)$ are all the same and their graphs have the same $y$-intercept. Their general shape is the same as well, except for a change in the horizontal scale.
+	* The ranges of $f(x)$, $f(c\cdot x)$, and $f(-c\cdot x)$ are all the same and their graphs have the same $y$-intercept. The general shape of their graphs is the same as well, except for a change in the horizontal scale.
 	* Note: This is the opposite of vertical compression/elongation, in that when $c<1$ we get an elongation instead of a compression.
 	* {% include image.html path="2.4.01.png" path-detail="2.4.01.hd.png" alt="Examples of horizontal reflections, compressions, and elongations." %}
 
