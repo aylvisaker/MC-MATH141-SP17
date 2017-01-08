@@ -3,7 +3,7 @@ layout: post
 title: "Chapter 2 Outline"
 categories: [content]
 tags: [content]
-description: MC-MATH-141
+description: New Functions from Old
 ---
 * [Section 2.2 - Other Common Functions](#s2)
 * [Section 2.3 - Arithmetic Combinations of Functions](#s3)

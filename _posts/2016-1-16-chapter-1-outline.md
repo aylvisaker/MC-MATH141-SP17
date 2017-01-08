@@ -3,7 +3,7 @@ layout: post
 title: "Chapter 1 Outline"
 categories: [content]
 tags: [content]
-description: MC-MATH-141
+description: Functions
 ---
 * [Section 1.1 - Introduction](#s1)
 * [Section 1.2 - The Real Line](#s2)
