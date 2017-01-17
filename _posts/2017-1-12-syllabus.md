@@ -35,7 +35,10 @@ A detailed schedule can be found on the course webpage. This will be kept up to 
 * Chapter 5 : Exponential and logarithmic functions
 
 # Grading Scale
-Your overall grade for the course will be computed as the average of your exam scores. Your lowest exam score (excluding the final exam) will be dropped from consideration. Letter grades will follow the standard 90/80/70/60 scale, with 90 sufficient for some kind of A, 80 sufficient for some kind of B, etc. Plus and minus grades will be assigned at the instructor's discretion, typically the lower third of the range (0-3) earning a minus and the upper third of the range (7 and up) earning a plus.
+Your overall grade for the course will be computed as the average of your exam scores, with the final exam being weighted the same as two regular exams. Your lowest exam score (excluding the final exam) will be dropped from consideration. Letter grades will follow the standard 90/80/70/60 scale, with 90 sufficient for some kind of A, 80 sufficient for some kind of B, etc. Plus and minus grades will be assigned at the instructor's discretion, typically the lower third of the range (0-3) earning a minus and the upper third of the range (7 and up) earning a plus.
+
+# Homework
+You will find practice problems corresponding to each section of the book on the course webpage. Having read the section carefully you should find yourself able to do most of the "practice" problems. *At least* half of the questions on each exam will be taken *verbatim* from the "easy" and "difficult" problems (more from the "easy" problems). The remainder will be similar to homework problems, but I will make minor changes. Some sections will have "extra credit" problems associated with them. You can turn these in before the corresponding exam. Each completed extra credit problem will earn you 1% extra credit on that exam.
 
 # Exams
 Scheduled exam dates are available on the course calendar. These will likely change as we burn flex days, but will otherwise proceed on schedule. I will make an effort to remind you when an exam is coming up, but it is ultimately your responsibility to pay attention to the calendar.
