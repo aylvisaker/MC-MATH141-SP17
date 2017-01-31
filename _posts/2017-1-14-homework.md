@@ -52,15 +52,15 @@ description: MC-MATH-141
 
 ## Chapter 2
 * Section 2.2 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+    * practice problems: 1-13 
+    * easy problems: 19-23, 27-29
+    * hard problems: 39, 41, 43
+    * extra credit problems: 38, 40
 * Section 2.3 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+    * practice problems: 1-5
+    * easy problems: 9-13
+    * hard problems: 7, 15, 21
+    * extra credit problems: 27
 * Section 2.4 homework:
     * practice problems: 
     * easy problems: 
