@@ -10,8 +10,8 @@ description: MC-MATH-141
 * Number / Title : Math 141 / Elementary Functions
 * Section / Semester : 01 / SP17
 * Course webpage : https://aylvisaker.github.io/MC-MATH141-SP17/
-* Meeting times : MTWRF 1:00-1:50 PM
-* Meeting location : CSB 176
+* Meeting times MWF 2:00 - 4:00, CSB 176
+* Meeting location  TueThu 10:00-11:00, CSB 340
 * Textbook : PreCalculus by Faires and DeFranza (5th edition)
 
 # Resources
