@@ -67,9 +67,9 @@ description: MC-MATH-141
     * hard problems: 
     * extra credit problems: 
 * Section 2.5 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
+    * practice problems: 1-5 
+    * easy problems: 7-11, 15-17, 19-23
+    * hard problems: 25-29
     * extra credit problems: 
 
 
