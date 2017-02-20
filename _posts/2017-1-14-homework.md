@@ -75,15 +75,15 @@ description: MC-MATH-141
 
 ## Chapter 3
 * Section 3.2 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+    * practice problems: 1, 2, 7-11 
+    * easy problems: 7-11, 15-19
+    * hard problems: 31, 32, 33, 34
+    * extra credit problems: 35, 36
 * Section 3.3 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+    * practice problems: 1-5 
+    * easy problems: 7-11, 13-17
+    * hard problems: 19-27
+    * extra credit problems: 34, 36
 * Section 3.4 homework:
     * practice problems: 
     * easy problems: 
