@@ -94,45 +94,29 @@ description: MC-MATH-141
 
 ## Chapter 4
 * Section 4.2 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+    * 25, 27, 39, 40, 41, 43, 
+
 * Section 4.3 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+    * 15, 17, 19-25 all
+
 * Section 4.4 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+
+
 * Section 4.5 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+
+
 * Section 4.6 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+
+
 * Section 4.7 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+
+
 * Section 4.8 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+
+
 * Section 4.9 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+
+
 
 
 ## Chapter 5
