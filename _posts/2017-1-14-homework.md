@@ -100,13 +100,14 @@ description: MC-MATH-141
     * 15, 17, 19-25 all
 
 * Section 4.4 homework:
-
+    * 3, 5, 13-21, 27, 29, 39, 41
+    * x-cr: 50, 52
 
 * Section 4.5 homework:
-
+    * 7-15, 19-22 all, 27, 29
 
 * Section 4.6 homework:
-
+    * 7-13, 17-25, 39, 41
 
 * Section 4.7 homework:
 
