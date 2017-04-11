@@ -110,7 +110,7 @@ description: MC-MATH-141
     * 7-13, 17-25, 39, 41
 
 * Section 4.7 homework:
-
+    * 3-13, 17, 19, 23, 27, 33, 39
 
 * Section 4.8 homework:
 
