@@ -122,17 +122,8 @@ description: MC-MATH-141
 
 ## Chapter 5
 * Section 5.2 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+    * 3, 4, 9, 13, 17, 22, 35, 41
 * Section 5.3 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+    * 7, 9, 13, 15, 19, 23, 25, 29, 31, 33, 37, 47, 51, 57, 61
 * Section 5.4 homework:
-    * practice problems: 
-    * easy problems: 
-    * hard problems: 
-    * extra credit problems: 
+    * 3, 5, 7, 9, 11, 13, 17, 19, 21
